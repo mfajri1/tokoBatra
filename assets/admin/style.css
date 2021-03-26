@@ -1,0 +1,98 @@
+/*text*/
+.text-bold{
+	font-weight: bold !important;
+}
+.text-putih{
+	color: #fff !important;
+}
+.text-hitam{
+	color: #000 !important;
+}
+.bg-abu{
+	background-color: #B6BBBF;
+	color: #fff !important;
+}
+.bg-gelap{
+	background-color: #343A40;
+	color: #fff !important;
+}
+
+.table tbody tr:nth-child(odd){
+	background-color: #B6BBBF;
+}
+.table tbody tr:hover{
+	background-color: rgba(182, 187, 191, 0.5);
+}
+.pt {
+	margin-top: -20px;
+}
+
+.text-xs{
+	font-size: 12px;
+}
+
+b.text-xs {
+	padding-right: 10px;
+}
+
+/*foto profile*/
+.foto-profile {
+	border-radius: 50%;
+	width: 40px;
+	margin-bottom: 20px;
+}
+
+.foto-pro{
+	width: 100px;
+}
+
+.foto-prodash{
+	width: 50px;
+}
+.foto-pro img{
+	width: 100px;
+	padding-left: 10px;
+}
+
+li.header-cart-item .header-cart-item-txt .menu-belanja{
+	color: #d82e2e;
+}
+
+/*foto slider background*/
+.bg-title-page{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*keranjang*/
+div.bgwhite a{
+	position: relative;
+	/*left: 880px;*/
+	float: left;
+	margin-right: 10px;
+}
+.btn-radius{
+	border-radius: 15px;
+	height: 30px;
+}
+
+.menu-tambah-keranjang{
+	height: 20px;
+}
+
+.tambah-keranjang{
+	height: 20px;
+	width: 30px;
+	font-size: 12px;
+}
+
+
+/*mobile*/
+li.ahover:hover{
+	background-color: rgba(125,100,50,0.5);
+}
+
+
+/*footer*/
+.tinggi{
+	min-height: 200px;
+}
